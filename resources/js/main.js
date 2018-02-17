@@ -8,4 +8,5 @@ $(document).ready(function(){
     draggable: false,
     pauseOnFocus: false,
     pauseOnHover: false
+  })
   });
